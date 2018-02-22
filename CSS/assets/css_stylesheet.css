@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: inherit;
+}
+
+header > img {
+  width: 100px
+}
+
+.ingredients-list {
+  list-style: square inside;
+}
+
+ol {
+  list-style: upper-roman inside;
+}
+
+body {
+  background-color: teal;
+}
+
+
+
+
+
+/* <ul class="ingredients-list"> </ul>
+
+ul {
+  list-style: square inside;
+}
+
+<ol class="directions-list"> </ol>
+
+.directions-list {
+  list-style: lower-roman;
+}
+
+header {
+  <img id="logo"/>
+  }
+
+#logo {
+  width: 100px
+} */
